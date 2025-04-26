@@ -15,7 +15,7 @@ This bot for Telegram allows users to create, view, and delete notes using an SQ
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Ananas1kexe/telegram-notes-bot.git
+    git clone https://github.com/Ananas1kexe/bot-on-aiogram
     ```
 
 2. Install the dependencies:
