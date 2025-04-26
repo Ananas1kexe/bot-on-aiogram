@@ -95,5 +95,5 @@ All bot actions are logged to the console. In case of errors, information will b
 
 ## License
 
-MIT License. See the `LICENSE` file for more details.
+MIT License. See the `LICENSE` file for more details.\
 [https://github.com/Ananas1kexe/bot-on-aiogram/blob/main/LICENSE](https://github.com/Ananas1kexe/bot-on-aiogram/blob/main/LICENSE)
